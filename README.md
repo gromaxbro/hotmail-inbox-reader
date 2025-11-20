@@ -1,4 +1,4 @@
-# ========================== DOSEN'T WORKS NOW =========================
+# ======= DOSEN'T WORKS NOW =======
 
 
 # hotmail-inbox-checker
